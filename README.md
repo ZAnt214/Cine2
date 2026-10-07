@@ -9,3 +9,6 @@
   <a href="https://aistudio.google.com/apps">Start building</a>
 
 </div>
+
+## CAPITÃO GLÓRIA — Edição Gore
+Abra `index.html` no navegador. WASD voa, mouse mira, botão esquerdo = olhos laser, espaço/botão direito = soco supersônico, P pausa.
