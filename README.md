@@ -11,4 +11,7 @@
 </div>
 
 ## CAPITÃO GLÓRIA — Edição Gore
-Abra `index.html` no navegador. WASD voa, mouse mira, botão esquerdo = olhos laser, espaço/botão direito = soco supersônico, P pausa.
+Jogo 3D de mundo aberto (Three.js). Abra `index.html` no navegador.
+
+- Celular: arraste no lado esquerdo para andar e no direito para girar a câmera; botões LASER, SOCO, PULAR, VOAR e DESCER na tela.
+- Teclado/mouse: clique para travar o mouse; WASD anda, Shift corre, Espaço pula/sobe, C desce, F voa, botão esquerdo = laser, botão direito ou E = soco.
