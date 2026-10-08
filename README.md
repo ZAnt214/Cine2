@@ -11,11 +11,12 @@
 </div>
 
 ## CAPITÃO GLÓRIA — Edição Gore
-Jogo 3D de mundo aberto no estilo Hard Time (Three.js). Abra `index.html` no navegador.
+Simulador de prisão em 3D inspirado em Hard Time (MDickie), feito com Three.js. Abra `index.html` no navegador.
 
-- Briga corpo a corpo: socos, chutes, agarrar, socar quem está agarrado e arremessar pessoas.
-- Objetos como arma (taco, cano, machado, garrafa, tijolo, lixeira) e carros que podem ser erguidos e jogados.
-- Superpoderes: olhos laser com mira automática, investida, super pulo e voo.
-- NPCs com nome e vida; polícia (estrelas de procurado) e exército quando a coisa fica feia.
-- Celular: arraste à esquerda para andar e à direita para girar a câmera; botões ATACAR, AGARRAR, PEGAR, LASER, INVESTIDA, PULAR e VOAR.
-- Teclado/mouse: WASD, Shift corre, Espaço pula/sobe, C desce, V voa, botão esquerdo ataca, direito agarra, E pega, Q (segurar) laser, X investida.
+- Começa no tribunal: o juiz dá a sentença e você cumpre a pena na Penitenciária Estadual (bloco de celas, refeitório, chuveiros, pátio, torres).
+- Relógio com rotina diária (café, pátio, almoço, jantar, recolher); dormir na sua cela passa o dia e reduz a pena.
+- Presos e guardas com nome, rosto, gangue e relacionamento com você. Eles puxam conversa (pedidos, provocações, convites de gangue, avisos) e você responde; dá para recrutar aliados.
+- Brigas entre detentos, guardas que reagem, alarme e novos julgamentos que aumentam a pena.
+- Superpoderes: laser, voo, investida, super força. Arrombe o portão ou voe por cima do muro e fuja para a cidade (polícia, estrelas de procurado, exército).
+- Controles na tela no estilo MDickie: A ataca, G agarra/arremessa, R corre, P pega, T fala/provoca, L laser, V voa, CÂM troca a câmera.
+- Teclado: WASD, Shift, J/clique ataca, K/botão direito agarra, E pega, T fala, Q laser, V voa, F câmera, 1-3 respostas.
