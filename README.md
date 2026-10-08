@@ -11,7 +11,11 @@
 </div>
 
 ## CAPITÃO GLÓRIA — Edição Gore
-Jogo 3D de mundo aberto (Three.js). Abra `index.html` no navegador.
+Jogo 3D de mundo aberto no estilo Hard Time (Three.js). Abra `index.html` no navegador.
 
-- Celular: arraste no lado esquerdo para andar e no direito para girar a câmera; botões LASER, SOCO, PULAR, VOAR e DESCER na tela.
-- Teclado/mouse: clique para travar o mouse; WASD anda, Shift corre, Espaço pula/sobe, C desce, F voa, botão esquerdo = laser, botão direito ou E = soco.
+- Briga corpo a corpo: socos, chutes, agarrar, socar quem está agarrado e arremessar pessoas.
+- Objetos como arma (taco, cano, machado, garrafa, tijolo, lixeira) e carros que podem ser erguidos e jogados.
+- Superpoderes: olhos laser com mira automática, investida, super pulo e voo.
+- NPCs com nome e vida; polícia (estrelas de procurado) e exército quando a coisa fica feia.
+- Celular: arraste à esquerda para andar e à direita para girar a câmera; botões ATACAR, AGARRAR, PEGAR, LASER, INVESTIDA, PULAR e VOAR.
+- Teclado/mouse: WASD, Shift corre, Espaço pula/sobe, C desce, V voa, botão esquerdo ataca, direito agarra, E pega, Q (segurar) laser, X investida.
